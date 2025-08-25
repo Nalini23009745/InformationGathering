@@ -73,27 +73,27 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## OUTPUT:
 ### Whois
-
+![alt text](image.png)
 ### Finding Hosting Company :
 
 ### History of the website :
-
-### ping command :
-
-### whois :
-
-### netcat :
+![alt text](image-1.png)
 
 ### nmap :
+![alt text](image-2.png)
 
 ### whatweb :
+![alt text](image-3.png)
 
 ### httprint :
+![alt text](image-4.png)
 
 ### TCP traceroute :
-
+![alt text](image-5.png)
+![alt text](image-6.png)
 ### UDP traceroute :
 
+![alt text](image-7.png)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
